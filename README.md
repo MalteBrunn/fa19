@@ -1,6 +1,6 @@
-# fa2017 repository
+# Ferienakademie 2019, course 5
 
-This is the Git repository for the course 5 of the Ferienakademie 2017.
+This is the Git repository for the course 5 "[Let's Play! Simulated Physics for Games](https://www.ferienakademie.de/kurse-2019/kurs-5/)" of the Ferienakademie 2019 in Sarntal.
 
 ## Build
 
