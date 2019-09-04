@@ -11,6 +11,7 @@ The main dependencies are:
 Other dependencies you might need later are:
 * [SDL2_ttf](https://www.libsdl.org/projects/SDL_ttf/): TrueType Fonts (`libsdl2-ttf-dev`)
 * [SDL2_mixer](https://www.libsdl.org/projects/SDL_mixer/): Audio mixer (`libsdl2-mixer-dev`)
+* [SDL2_gfx](https://www.libsdl.org/): Antialised drawing routines ruch as lines, circles, or polygons (`libsdl2-gfx-dev`)
 * [Bullet physics](https://pybullet.org/wordpress/): Physics engine (`libbullet-dev`)
 
 With all the dependencies installed, simply do:
