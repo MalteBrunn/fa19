@@ -13,6 +13,13 @@ Other dependencies you might need later are:
 * [SDL2_mixer](https://www.libsdl.org/projects/SDL_mixer/): Audio mixer (`libsdl2-mixer-dev`)
 * [SDL2_gfx](https://www.libsdl.org/): Antialised drawing routines ruch as lines, circles, or polygons (`libsdl2-gfx-dev`)
 * [Bullet physics](https://pybullet.org/wordpress/): Physics engine (`libbullet-dev`)
+* [OpenMP](https://openmp.org/): Thread-level parallelization (`libomp-dev`)
+* [OpenMPI](https://www.open-mpi.org/): Process-level parallelization (`libopenmpi-dev`)
+* [CUDA](https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html#ubuntu-installation): GPU-level parallelization
+* [Qt](https://www.qt.io/): GUI
+* [openFrameworks](https://openframeworks.cc/): An alternative to SDL for graphics, audio, and input (get a nightly build)
+* [OpenCV](https://opencv.org/)
+* Kinect (see [doc/kinect.txt](doc/kinect.txt) (an update is needed))
 
 With all the dependencies installed, simply do:
 
